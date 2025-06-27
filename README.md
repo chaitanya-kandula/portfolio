@@ -37,19 +37,12 @@ This project is deployed on Vercel. Every push to main auto-updates the live sit
 ## 🙋‍♂️ Author
 Chaitanya Kandula
 📧 chaitanyakandula2005@gmail.com
-🔗 LinkedIn
 
 ## ⭐ Show Your Support
 If you like this project, please give it a ⭐ on GitHub and share it!
 
 ## 📜 License
 This project is licensed under the MIT License.
-
-yaml
-Copy
-Edit
-
----
 
 ## 📤 To Push This to GitHub:
 
